@@ -1,0 +1,2 @@
+pytesseract==0.3.8
+opencv-contrib-python==4.5.4.60
