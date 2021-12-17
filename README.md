@@ -29,3 +29,4 @@ python3 poc.py
 https://github.com/tesseract-ocr/tesseract
 
 ### Resultados
+![image](https://user-images.githubusercontent.com/86089987/146598084-a44844f1-b527-475c-b3db-cd35ffb8838f.png)
