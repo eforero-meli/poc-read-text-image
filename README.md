@@ -2,13 +2,15 @@
 ## Reconocimiento de texto en imagenes
 
 ### Instalación
-Se requiere instalar en la maquina *tesseract*
+Se requiere instalar en la maquina tesseract
 
 Instalar tesseract Linux o Windows
 https://tesseract-ocr.github.io/tessdoc/Downloads.html
 
 Para MAC
+```
 brew install tesseract
+```
 
 ### Instalación de Dependencias
 1. Instalar python3
